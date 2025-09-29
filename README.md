@@ -4,7 +4,7 @@
 <img width="1366" height="768" alt="Screenshot from 2025-09-30 00-18-52" src="https://github.com/user-attachments/assets/fdaa267f-cde7-4807-906d-34c8fe7a04bc" />
 
 ##  contoh kode html
-```mermaid
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -73,7 +73,7 @@ Web</b> di <i>Universitas Pelita Bangsa</i>. Pelajaran pertama yang kami dapat a
 ```
 
 ##  contoh kode css
-```mermaid
+```
 nav {
     background: #20a759;
     color: #fff;
